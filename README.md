@@ -4,7 +4,11 @@ This is a simple website project
 
 ## Introuction
 
+Parte2
+
 ## Deployments
+
+Parte3
 
 ## Purpose
 
